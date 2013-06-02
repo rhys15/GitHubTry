@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
-
+	private String rhys = "rhys";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
